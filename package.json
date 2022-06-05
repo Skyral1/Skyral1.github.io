@@ -1,0 +1,14 @@
+{
+  "name": "html-getcoco",
+  "version": "0.1.0",
+  "description": "Test de site SCSS",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive --output-style=compressed"
+  },
+  "author": "Skyral",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}

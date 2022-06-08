@@ -1,12 +1,12 @@
-# Skyral1.github.io
+# Site portfolio
 
 [Exemple du site](https://skyral1.github.io/dist/)
 
-Site portfolio.
-
 Ce site permet de présenter vos compétences, et de mettre un CV à disposition des potentiels employeurs.
 
-Pour pouvoir utiliser ce site et modifier le CSS, il faut passer par du SCSS.
+---
+
+## Pour pouvoir utiliser ce site et modifier le CSS, il faut passer par du SCSS.
 
 Pour convertir automatiquement le SCSS au CSS, il faut installer [node-sass](https://www.npmjs.com/package/node-sass). via la commande  
 ```npm i sass```

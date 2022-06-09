@@ -1,6 +1,4 @@
-# Site portfolio
-
-### [Exemple du site](https://skyral1.github.io/dist/)
+# [Site portfolio](https://skyral1.github.io/dist/)
 
 Ce site permet de présenter vos compétences, et de mettre un CV à disposition des potentiels employeurs.
 

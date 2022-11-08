@@ -8,7 +8,7 @@ Ce site permet de présenter vos compétences, et de mettre un CV à disposition
 
 Pour convertir automatiquement le SCSS au CSS, il faut installer [node-sass](https://www.npmjs.com/package/node-sass) via la commande  
 ```
-npm install node-sass
+npm install node-sass -g
 ```
 
 Ensuite quand vous commencez à éditer votre code, ouvrez un terminal dans votre éditeur et taper "node run sass".
